@@ -1,0 +1,1 @@
+/home/leonardo/Projetos/tetris/tetris/target/debug/libtetris.so: /home/leonardo/Projetos/tetris/tetris/src/bag.rs /home/leonardo/Projetos/tetris/tetris/src/direction.rs /home/leonardo/Projetos/tetris/tetris/src/lib.rs /home/leonardo/Projetos/tetris/tetris/src/position.rs /home/leonardo/Projetos/tetris/tetris/src/shape.rs /home/leonardo/Projetos/tetris/tetris/src/tetris.rs
